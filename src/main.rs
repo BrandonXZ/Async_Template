@@ -4,6 +4,6 @@
 #![allow(non_snake_case)]
 
 #[tokio::main]
-pub async fn main() {
+async fn main() {
     println!("Hello, world!");
 }
